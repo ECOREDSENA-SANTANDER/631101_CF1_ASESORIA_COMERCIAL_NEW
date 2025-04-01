@@ -325,7 +325,7 @@
                   .white.p-3
                     h4.mb-4 Equivale a la siguiente fórmula
                     p.mb-4 Las utilidades son iguales a los ingresos totales menos los costos totales, esto se puede representar así:
-                    .row.justify-content-center.align-items-center
+                    .row.justify-content-center
                       .col-lg-5.col-md-6
                         p.mb-2 UT = IT - CT
                         p.mb-2 UT: Utilidades totales
@@ -338,7 +338,7 @@
                         p.mb-2 CT = CF + CV X Q
                         p.mb-2 CT: Costos totales
                         p.mb-2 CF: Costos fijos totales
-                        p.mb-2 CV: Costo variable unitario
+                        p.mb-2 CV: Costo variable
                         p.mb-2 Q: Cantidades vendidas
           .row.justify-content-center.align-items-center.mb-4(titulo="Indicaciones")
             .col-lg-11
@@ -350,23 +350,23 @@
                     li.d-flex.mb-1
                       .lista-ol--cuadro__vineta
                         span 1
-                      p.mb-0 Determina los costos de producción, y gastos de administración y ventas, súmalos y divídelos entre tu producción total para obtener el costo unitario.
+                      p.mb-0 Determine los costos de producción, y gastos de administración y ventas, súmelos y divídalos entre la producción total para obtener el costo unitario.
                     li.d-flex.mb-1
                       .lista-ol--cuadro__vineta
                         span 2
-                      p.mb-0 Elabora una relación de los precios de la competencia directa y productos similares.
+                      p.mb-0 Elabore una relación de los precios de la competencia directa y productos similares.
                     li.d-flex.mb-1
                       .lista-ol--cuadro__vineta
                         span 3
-                      p.mb-0 Realiza un sondeo del mercado para determinar lo que valoran los clientes tu producción.
+                      p.mb-0 Realice un sondeo del mercado para determinar lo que valoran los clientes de su producto.
                     li.d-flex.mb-1
                       .lista-ol--cuadro__vineta
                         span 4
-                      p.mb-0 Realiza un análisis de tu capacidad de producción al 90% para estimar la cantidad máxima de vender y posibilidad de competir.
+                      p.mb-0 Realice un análisis de su capacidad de producción al 90% para estimar la cantidad máxima de vender y posibilidad de competir.
                     li.d-flex.mb-1
                       .lista-ol--cuadro__vineta
                         span 5
-                      p.mb-0 Si ya completaste los cuatro puntos anteriores es momento que le pongas precio a tu producto.
+                      p.mb-0 Si ya completo los cuatro puntos anteriores es momento que le coloque el precio al producto.
                 .col-lg-5.col-md-12
                   img.img-a.img-t(src='@/assets/curso/temas/img12.svg', alt='')
           .row.justify-content-center.align-items-center.mb-4(titulo="Estrategia")

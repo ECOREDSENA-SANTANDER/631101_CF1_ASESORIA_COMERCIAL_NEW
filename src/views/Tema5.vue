@@ -181,10 +181,10 @@
                   h5 Figura 14. 
                   | Estructuras no lineales o simples
                 img(src='@/assets/curso/temas/img81.svg' alt='En la figura se describen estructuras primitivas lineales: las estructuras de datos lineales incluyen pilas, colas y listas ligadas lineales. Estructuras primitivas no lineales: las estructuras de datos no lineales incluyen grafos y arboles.')
-      .py-3.py-md-4.bg10.px-3(titulo="Estructura de base de datos")
+      .py-3.py-md-4.bg10.px-3(titulo="Estructuras de base de datos")
         .row.justify-content-center.p-4
           .col-lg-11
-            h3.mb-3 Estructuras de base de datos dinámicas y estáticas
+            h3.mb-3 Estructuras de base de datos
             p.mb-4 La principal diferencia entre ambas es que mientras las bases de datos estáticas son de solo lectura y no permite modificar o añadir datos, las bases de datos dinámicas son mucho más flexibles y sí permiten editar, actualizar o borrar datos.
             img.img-a.img-t(src='@/assets/curso/temas/img82.svg' alt='')
       .py-3.py-md-4.bg10.px-3(titulo="Diseño de base de datos")
@@ -255,8 +255,8 @@
             .row.justify-content-center.align-items-center
               .col-lg-7.mb-4.mb-md-0.my-4
                 p(data-aos="zoom-in-left") Establecer las relaciones de tablas. Busque en cada tabla y decida cómo se relacionan los datos en una tabla con los datos de otras tablas. Agregue campos a las tablas o cree tablas para aclarar las relaciones, según sea necesario.
-                p(data-aos="zoom-in-rigth") Las relaciones consisten en una colección, o conjunto, de relaciones de la misma naturaleza. Ejemplo: Dados los conjuntos de entidades “Cliente" y “Factura", todas las relaciones de la forma cliente-factura, permiten obtener la información de los clientes y sus respectivas facturas.
-                p(data-aos="zoom-in-left") La dependencia o asociación entre los conjuntos de entidades es llamada participación. En el ejemplo anterior los conjuntos de entidades “Factura" y “Cliente" participan en el conjunto de relaciones factura-cliente. Se llama grada del conjunto de relaciones a la cantidad de conjuntos de entidades participantes en la relación.
+                p(data-aos="zoom-in-rigth") Las relaciones consisten en una colección, o conjunto, de relaciones de la misma naturaleza. Ejemplo: Dados los conjuntos de entidades "Cliente" y "Factura", todas las relaciones de la forma cliente-factura, permiten obtener la información de los clientes y sus respectivas facturas.
+                p(data-aos="zoom-in-left") La dependencia o asociación entre los conjuntos de entidades es llamada participación. En el ejemplo anterior los conjuntos de entidades "Factura" y "Cliente" participan en el conjunto de relaciones factura-cliente. Se llama grada del conjunto de relaciones a la cantidad de conjuntos de entidades participantes en la relación.
               .col-lg-4.col-md-10.mb-4.mb-md-0 
                 figure
                   img.img-a.img-t(src='@/assets/curso/temas/img90.svg', alt='Texto que describa la imagen')

@@ -73,7 +73,7 @@
                     img.mb-4.d-none.d-lg-block(src='@/assets/curso/temas/img59.svg', alt='')
                 .col-lg
                   h4.left Conductual
-                  p.left La variable conductual divide a los compradores en segmentos basados en sus conocimientos, actitudes, usos o respuestas a la utilización de uno la respuesta frente a un determinado artículo producto. Las empresas utilizan esta segmentación a través de la conducta del consumidor, pues su manera de comprar generaría nuevos segmentos. Se puede segmentar teniendo en cuenta:
+                  p.left La variable conductual divide a los compradores en segmentos basados en sus conocimientos, actitudes, usos o respuestas a la utilización de uno o la respuesta frente a un determinado artículo producto. Las empresas utilizan esta segmentación a través de la conducta del consumidor, pues su manera de comprar generaría nuevos segmentos. Se puede segmentar teniendo en cuenta:
                   .row.justify-content-center.align-items-center
                     .col-lg-12
                       ul.lista-ul.left

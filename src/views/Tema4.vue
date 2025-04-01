@@ -54,7 +54,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-3.text-white #[b Técnica de recolección de datos]
-                  p.mb-2.text-white En el siguiente documento se pueden revisar las técnicas de recolección de información a profundidad:
+                  p.mb-2.text-white Se pueden consultar de manera detallada los diferentes métodos de recolección de datos. Para consultarlo acceda a la Carpeta de anexos. 
                 .col-lg-auto.pe-lg-5
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Documento_tecnica_de_recoleccion_de_datos.pdf')" target="_blank")
                     span Descargar
