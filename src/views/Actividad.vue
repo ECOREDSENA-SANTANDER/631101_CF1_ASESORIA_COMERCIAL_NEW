@@ -21,6 +21,8 @@ export default {
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       barajarPreguntas: true,
       preguntas: [
         {
