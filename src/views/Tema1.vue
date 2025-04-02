@@ -366,7 +366,7 @@
                     li.d-flex.mb-1
                       .lista-ol--cuadro__vineta
                         span 5
-                      p.mb-0 Si ya completo los cuatro puntos anteriores es momento que le coloque el precio al producto.
+                      p.mb-0 Si ya completó los cuatro puntos anteriores es momento que le coloque el precio al producto.
                 .col-lg-5.col-md-12
                   img.img-a.img-t(src='@/assets/curso/temas/img12.svg', alt='')
           .row.justify-content-center.align-items-center.mb-4(titulo="Estrategia")
