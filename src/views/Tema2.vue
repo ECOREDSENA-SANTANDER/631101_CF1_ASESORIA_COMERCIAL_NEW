@@ -256,7 +256,7 @@
             p.mb-4 Colocar la oferta de mercado en la mente del mercado meta. Para Kotler (2013), “una posición de producto es la forma en que un producto está definido por los consumidores en atributos importantes, el lugar que ocupa en la mente de los consumidores respecto a los productos competidores”. Esto es importante porque la empresa procura recordación en los consumidores a la hora de cumplir con sus necesidades.
             p.mb-4 El mapa de posicionamiento es una herramienta que permite medir la posición que ocupa nuestra marca o empresa en la mente del consumidor. Se tiene en cuenta los atributos que utiliza la competencia para posicionarse y con ellos se elabora el mapa. Este consiste en por lo menos dos coordenadas que corresponden a los atributos, por ejemplo, precio y calidad, tamaño y velocidad, color y textura, entre otros. Una vez que se determina el mapa, se ubicarán en el mismo a los competidores y a nuestra empresa o los productos, para saber el posicionamiento que podemos generar en nuestro segmento meta.
           .col-lg-4.col-md-9
-            img.img-a.img-t(src='@/assets/curso/temas/img52.svg', alt='La figura presenta una matriz que clasifica cuatro productos de café según dos variables: precio (de bajo a alto en el eje horizontal) y sabor (de suave a fuerte en el eje vertical). Producto 1 tiene sabor fuerte y precio alto; Producto 2, sabor suave y precio bajo; Producto 3, sabor intermedio y precio bajo; y Producto 4, sabor intermedio y precio alto.')
+            img.img-a.img-t(src='@/assets/curso/temas/img12.svg', alt='imagen decorativa')
       .py-3.py-md-4.bg26.px-3(titulo="Comunicación")
         .row.justify-content-center.p-4
           .col-lg-12.col-md-12
