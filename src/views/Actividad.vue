@@ -20,7 +20,7 @@ export default {
       tema: 'Nombre del CF',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> apropiarse de los conocimientos asociados a la identificación de nichos de mercado, así como las técnicas e instrumentos de recolección de datos para crear una base de datos necesarios para el manejo de los mercados y grupo de clientes potenciales.',
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       barajarPreguntas: true,
